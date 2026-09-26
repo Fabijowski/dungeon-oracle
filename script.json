@@ -1,0 +1,19 @@
+/* 
+1. Create your data
+Create arrays containing at least 5 items each for:
+character classes
+dungeons
+enemies
+weapons
+possible outcomes
+rewards
+For example, your character classes could contain: Warrior, Mage, Rogue, Ranger, Cleric
+
+*/
+
+const character_classes = ["warrior", "mage", "rogue", "ranger", "cleric"];
+const dungeons = ["Forgotten Castle", "Ancient Crypt", "Dark Forest", "Volcanic Caverns", "Frozen Ruins"];
+const enemies = ["Goblin", "Skeleton", "Orc", "Giant Spider","Dark Mage"];
+const weapons = ["Swords","axes","wands","spellbooks","short swords","daggers","spears","maces","holy symbols"];
+const possible_outcomes = ["Victory","Defeat","Escape","Barely survive","Become cursed"];
+const rewards = ["Powerful weapons","armor","shields","magical staffs","enchanted items","gold","lockpicks","traps","hunting equipment"];
