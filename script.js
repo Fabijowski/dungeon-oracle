@@ -50,7 +50,7 @@ console.log(
     + "You are" + random_character_class + ".\n"
     + "Your adventure beings in the " + random_dungeons + ".\n"
     + "You encounter a " + random_enemies + ".\n"
-    + "Luckily, you are carrying the " random_weapons + ".\n"
+    + "Luckily, you are carrying the " + random_weapons + ".\n"
     + "You defeat the " + random_enemies + ".\n"
     + "Your reward is " + random_rewards + ".\n"
 );
